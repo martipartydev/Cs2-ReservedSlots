@@ -1,3 +1,6 @@
+# Important
+This script is outdated(buggy) for some works for some doesn't . I implemented this in this [Script](https://github.com/justMemou/cs2-admin)
+
 # Cs2-ReservedSlots
 
 This is a lua script for CS2 for Reserved Slots
@@ -19,4 +22,4 @@ script_reload_code slot
 
 ## Support
 
-* If you want to Support me you can do it here [Paypal](https://nolagcs.com/donate) [Revolut](https://revolut.me/denkatar)
+* If you want to Support me you can do it here [Paypal](https://www.paypal.com/paypalme/martipartydev) [Revolut](https://revolut.me/martoparto)
