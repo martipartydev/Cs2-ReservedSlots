@@ -1,5 +1,5 @@
 # Important
-This script is outdated(buggy) for some works for some doesn't . I implemented this in this [Script](https://github.com/justMemou/cs2-admin)
+This script is outdated(buggy) for some works for some doesn't . I implemented better version in this [Script](https://github.com/justMemou/cs2-admin)
 
 # Cs2-ReservedSlots
 
